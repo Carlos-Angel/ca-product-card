@@ -11,7 +11,6 @@ import ProductCard from '@ca/product-card';
 ```jsx
 <ProductCard
   product={product}
-  key={product.id}
   initialValues={{
     count: 4, // optional
     maxCount: 10, // optional
