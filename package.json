@@ -35,7 +35,19 @@
   },
   "name": "@ca/product-card",
   "author": "Charly_Angel",
+  "repository": {
+    "url": "https://github.com/Carlos-Angel/ca-product-card",
+    "type": "git"
+  },
+  "homepage": "https://github.com/Carlos-Angel/ca-product-card",
   "module": "dist/ca-product-card.esm.js",
+  "keywords": [
+    "product",
+    "card",
+    "carlos",
+    "alberto",
+    "angel"
+  ],
   "size-limit": [
     {
       "path": "dist/ca-product-card.cjs.production.min.js",
