@@ -1,4 +1,4 @@
-# @ca/product-card
+# cangel-product-card
 
 Este es un paquete pruebas de despliegue a NPM
 
