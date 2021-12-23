@@ -34,13 +34,13 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@ca/product-card",
-  "author": "Charly_Angel",
+  "name": "cangel-product-card",
+  "author": "carlos-angel",
   "repository": {
-    "url": "https://github.com/Carlos-Angel/ca-product-card",
+    "url": "https://github.com/carlos-angel/ca-product-card",
     "type": "git"
   },
-  "homepage": "https://github.com/Carlos-Angel/ca-product-card",
+  "homepage": "https://github.com/carlos-angel/ca-product-card",
   "module": "dist/ca-product-card.esm.js",
   "keywords": [
     "product",
