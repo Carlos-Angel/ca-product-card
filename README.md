@@ -5,7 +5,7 @@ Este es un paquete pruebas de despliegue a NPM
 ## Ejemplo
 
 ```jsx
-import ProductCard from '@ca/product-card';
+import ProductCard from 'cangel-product-card';
 ```
 
 ```jsx
